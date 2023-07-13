@@ -1,0 +1,57 @@
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background-image: url("/Screenshot 2022-04-24 180810.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.social-media-links {
+  font-size: 50px;
+  color: orange;
+  margin: 20px;  
+}
+
+span :hover {
+  color: green
+}
+
+
+.social-media-links span {
+  margin: 10px;
+}
+
+.useful-links {
+  color: orange;
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  margin: 50px;
+}
+
+img {
+  height: 50px;
+}
+
+#profile-picture {
+  height: 175px;
+}
+
+a {
+  color: orange;
+}
+
+#intermezzo {
+  color: orange;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+span {
+  margin: 10px;
+}
